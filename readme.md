@@ -1,4 +1,3 @@
-## Hello, git
+## Welcome to Git
 
-- I'm adding this feature
-- from feature-branch
+- Dev Nahcho was here
